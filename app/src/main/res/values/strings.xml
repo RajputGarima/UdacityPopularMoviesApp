@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PopularMovies1</string>
+    <string name="transition_string">transition</string>
+    <string name="list_pref_key">listPref</string>
+    <string-array name="list_pref_entries">
+        <item>Popularity</item>
+        <item>Ratings</item>
+    </string-array>
+    <string-array name="list_pref_entry_values">
+        <item>popular</item>
+        <item>top_rated</item>
+    </string-array>
+</resources>

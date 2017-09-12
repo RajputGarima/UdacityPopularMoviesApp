@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="popular"
+        android:entries="@array/list_pref_entries"
+        android:entryValues="@array/list_pref_entry_values"
+        android:icon="@mipmap/ic_launcher"
+        android:key="@string/list_pref_key"
+        android:title="Sort By" />
+
+
+</PreferenceScreen>
